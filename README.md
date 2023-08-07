@@ -11,9 +11,9 @@ To get your environment set up, run:
 # ab-testing: Bayesian
 
 demo
-![Screenshot]([screenshot.png](https://github.com/datNg1809/ab-testing/blob/main/screenshots/bayes_abtesting.png)https://github.com/datNg1809/ab-testing/blob/main/screenshots/bayes_abtesting.png)
+![Screenshot](https://github.com/datNg1809/ab-testing/blob/main/screenshots/bayes_abtesting.png)https://github.com/datNg1809/ab-testing/blob/main/screenshots/bayes_abtesting.png)
 
 # bootstrap
 
 demo
-![Screenshot]([screenshot.png](https://github.com/datNg1809/ab-testing/blob/main/screenshots/bootstrap_demo.png)https://github.com/datNg1809/ab-testing/blob/main/screenshots/bootstrap_demo.png)
+![Screenshot](https://github.com/datNg1809/ab-testing/blob/main/screenshots/bootstrap_demo.png)https://github.com/datNg1809/ab-testing/blob/main/screenshots/bootstrap_demo.png)
